@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b0e8cd92-3e8c-46ef-80b7-ca59a3b58b5a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Access modifier/Accessmodifier/src/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Access modifier/Accessmodifier/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Access modifier/Static property/src/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Access modifier/Static property/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Access modifier/Staticmethod/src/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Access modifier/classStudent/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Access modifier/classStudent/src/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Circle-Cylinder/src/Cylinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Circle-Cylinder/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MovablePoint/src/MovablePoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MovablePoint/src/MovablePointTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MovablePoint/src/Point.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MovablePoint/src/PointTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Point2DvaPoint3D/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Point2DvaPoint3D/src/Point3D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classShape/src/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classShape/src/CircleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classShape/src/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classShape/src/RectangleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classShape/src/ShapeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classShape/src/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/classShape/src/SquareTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Dieukien" beforeDir="false" afterPath="$PROJECT_DIR$/../Dieukien" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Vonglap/Tinhlaisuat" beforeDir="false" afterPath="$PROJECT_DIR$/../Vonglap/Tinhlaisuat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mang2/Find_elements/src" beforeDir="false" afterPath="$PROJECT_DIR$/../mang2/Find_elements/src" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mang2/Tìm max/Find_max/src" beforeDir="false" afterPath="$PROJECT_DIR$/../mang2/Tìm max/Find_max/src" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Nfb3Xy8y2FmaMP5uqeKR6Ig68V" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "openjdk-19",
+    "last_opened_file_path": "D:/Module2/Kethua",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b0e8cd92-3e8c-46ef-80b7-ca59a3b58b5a" name="Changes" comment="" />
+      <created>1680057884435</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1680057884435</updated>
+      <workItem from="1680057885701" duration="102000" />
+      <workItem from="1680057993037" duration="72000" />
+      <workItem from="1680075710815" duration="1829000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
